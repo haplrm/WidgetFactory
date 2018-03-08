@@ -1,0 +1,41 @@
+body{
+	font-family: 'Mukta Malar', sans-serif;
+}
+
+.contenedor{
+	max-width: 80%;
+    height: 600px;
+	background: #FFAB40;
+	margin: 0 auto;
+	padding-left: 3%;
+	padding-right: 3%;
+	border-radius: 10%;
+	border:10px solid;
+	border-color: #000000;
+}
+
+.style1{
+	background-color: #448AFF;
+	color: white;
+	width: 40%;
+	margin: 0 auto;
+	margin-top: 25px;
+	height: 15%;
+	border:8px solid;
+	border-color: #000000;
+}
+
+.style2{
+	background-color: #303F9F;
+	color: white;
+	width: 35%;
+	height: 15%;
+	border:8px solid;
+	border-color: #000000;
+}
+
+.btns{
+	max-width: 400px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
